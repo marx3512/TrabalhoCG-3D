@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1684590195 source:c:\users\marxb\onedrive\Área de trabalho\faculdade\computação grafica\respostas tarefa\projetocg-3d\primeira questao\primeira questao\main.c
+	<windows.h>
+	<GL/freeglut.h>
+	<GL/glut.h>
+
+1685895926 source:c:\users\marxb\onedrive\Área de trabalho\faculdade\computação grafica\respostas tarefa\projetocg-3d\primeira questao\main.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<GL/freeglut.h>
+	<GL/glut.h>
+	<stb_image.h>
+	<SOIL/SOIL.h>
+
+1685142597 c:\users\marxb\onedrive\Área de trabalho\faculdade\computação grafica\respostas tarefa\projetocg-3d\primeira questao\include\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1685141368 c:\users\marxb\onedrive\Área de trabalho\faculdade\computação grafica\respostas tarefa\projetocg-3d\primeira questao\include\soil\soil.h
+
